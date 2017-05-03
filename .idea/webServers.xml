@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a1718806-7aa0-4c68-918b-61249e1ffb71" name="datamining" url="http://54.171.89.232">
+        <fileTransfer host="54.171.89.232" port="22" privateKey="C:\Users\Paul\Desktop\honorsProject.pem" rootFolder="/var/www/html" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
